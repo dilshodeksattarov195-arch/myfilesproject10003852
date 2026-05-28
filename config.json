@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfync",
+        "uuid": 24860808,
+        "checksum": "31tplc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
